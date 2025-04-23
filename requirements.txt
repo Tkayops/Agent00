@@ -1,0 +1,6 @@
+langchain
+langchain-mistralai
+mistralai
+playwright
+beautifulsoup4
+python-dotenv
